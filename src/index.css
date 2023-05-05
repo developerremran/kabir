@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner-bg{
+    background-image: url('/src/assets/New folder/image-1.jpg');
+}
